@@ -21,7 +21,7 @@ Minhas principais dúvidas e conquistas foram:
 * Achei mega curioso na criação do teste, instanciar um objeto de uma classe que ainda não havia sido criada, pra só depois do primeiro teste falhar criar a classe em si.(Afinal de contas, TDD! rs)
 * Foi incrível ter a sensação que eu sabia exatamente o que fazer na hora de criar a classe da calculadora, pois o teste me guiava na criação da interface com seus metódos.
 
-## Essa foi minha experiência com Java, espero que vocês possam aproveitar o conteúdo que vou compartilhar com essa minha jornada.
+#### Essa foi minha primeira experiência com Java, espero que vocês possam aproveitar o conteúdo que vou compartilhar com essa minha nova jornada.
 
 
 
