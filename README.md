@@ -6,7 +6,7 @@ Criei esse projetinho para treinar testes unitários com jUnit, o uso da IDE Int
 ## Curiosidades
 
 Tenho construído minha carreira como dev em torno da linguagem JavaScript. 
-Mas, recentemente, iniciei como developer graduate na ThoughtWorks e recebi a missão de aprender a programar em Java.
+Mas, recentemente, iniciei como graduate developer na ThoughtWorks e recebi a missão de aprender a programar em Java.
 Fiquei com medinho, pois o que já havia estudado dos fundamentos de OOP, do uso do IntelliJ IDE e de Java tinha me assustado.
 
 Enfim, peguei o meu medinho e fui com medo mesmo. 
